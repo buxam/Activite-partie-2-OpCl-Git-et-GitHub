@@ -1,6 +1,5 @@
 # -*-coding:utf8-*
-import os # On importe le module os
 
-
+# La listes des villes de résidence
+liste_villes = ["Lyon","Paris","Marseilles","Bordeaux","Calais","Lille","Metz","Nantes","Rennes","Nice","Valence"]
 		
-os.system("pause")
