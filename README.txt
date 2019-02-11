@@ -1,0 +1,1 @@
+Ce projet a été créé pour un exercice du cours "Gérez votre code avec Git et GitHub" sur le site "OpenClasrooms".
