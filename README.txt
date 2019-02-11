@@ -1,5 +1,5 @@
-Ce projet a été créé pour un exercice du cours "Gérez votre code avec Git et GitHub" sur le site "OpenClassrooms".
+Ce projet a Ã©tÃ© crÃ©Ã© pour un exercice du cours "GÃ©rez votre code avec Git et GitHub" sur le site "OpenClassrooms".
 
-Un s'agit d'un nano programme "personnage.py" fonctionnant sur la console. 
-Il permet de créer un objet personnage en ajoutant des attributs de manière aléatoire ou via saisie de texte.
-Un fichier annexe "donnees.py" contient des données que l'on peut importer sur le fichier principal.
+Il s'agit d'un nano programme "personnage.py" fonctionnant sur la console. 
+Il permet de crÃ©er un objet personnage en ajoutant des attributs de maniÃ¨re alÃ©atoire ou via saisie de texte.
+Un fichier annexe "donnees.py" contient des donnÃ©es que l'on peut importer sur le fichier principal.
