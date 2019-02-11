@@ -6,7 +6,7 @@ from donnees import*
 
 class Personnage:
 	def __init__(self, nom, prenom, age):
-		"""Seul le nom, le prénom et l'age sont définis lors de la création du personnage.
+		"""Seul le nom, le prénom et l'âge sont définis lors de la création du personnage.
 		Le lieu de résidence est par défaut "Paris" mais peut être modifié."""
 		self.nom = nom
 		self.prenom = prenom
